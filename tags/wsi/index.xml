@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WSI on Anjie Le</title>
+    <link>/tags/wsi/</link>
+    <description>Recent content in WSI on Anjie Le</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/wsi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new breast cancer diagnosis application based on ResNet50</title>
+      <link>/publication/wsi/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wsi/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Contact me or &lt;a href=&#34;https://scholar.google.com/citations?user=ecuapkMAAAAJ&amp;amp;hl=zh-CN&#34;&gt;Haobo Yang&lt;/a&gt; for codes or further information.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
