@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Anjie Le</title>
-    <link>/publication/</link>
+    <link>https://ale256.github.io/anjiele/publication/</link>
     <description>Recent content in Publications on Anjie Le</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ale256.github.io/anjiele/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence Integrated Diagnostic Platform Device in Ultrasound Modality</title>
-      <link>/publication/esonic/</link>
+      <link>https://ale256.github.io/anjiele/publication/esonic/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/esonic/</guid>
+      <guid>https://ale256.github.io/anjiele/publication/esonic/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Contact me for further information.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>RAPID (Radiology Automated body-Part IDentification)</title>
-      <link>/publication/vet-ct/</link>
+      <link>https://ale256.github.io/anjiele/publication/vet-ct/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publication/vet-ct/</guid>
+      <guid>https://ale256.github.io/anjiele/publication/vet-ct/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Contact me or &lt;a href=&#34;https://www.linkedin.com/in/jamesbang1233/?originalSubdomain=uk&#34;&gt;James Bang&lt;/a&gt; for codes or further information.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>A new breast cancer diagnosis application based on ResNet50</title>
-      <link>/publication/wsi/</link>
+      <link>https://ale256.github.io/anjiele/publication/wsi/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/wsi/</guid>
+      <guid>https://ale256.github.io/anjiele/publication/wsi/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Contact me or &lt;a href=&#34;https://scholar.google.com/citations?user=ecuapkMAAAAJ&amp;amp;hl=zh-CN&#34;&gt;Haobo Yang&lt;/a&gt; for codes or further information.&lt;/p&gt;

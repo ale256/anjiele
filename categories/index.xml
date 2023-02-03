@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anjie Le</title>
-    <link>/categories/</link>
+    <link>https://ale256.github.io/anjiele/categories/</link>
     <description>Recent content in Categories on Anjie Le</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     
-	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ale256.github.io/anjiele/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
