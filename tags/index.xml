@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anjie Le</title>
-    <link>https://ale256.github.io/anjiele/tags/</link>
+    <link>https://ale256.github.io/tags/</link>
     <description>Recent content in Tags on Anjie Le</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ale256.github.io/anjiele/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ale256.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ultrasound</title>
-      <link>https://ale256.github.io/anjiele/tags/ultrasound/</link>
+      <link>https://ale256.github.io/tags/ultrasound/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/ultrasound/</guid>
+      <guid>https://ale256.github.io/tags/ultrasound/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CT</title>
-      <link>https://ale256.github.io/anjiele/tags/ct/</link>
+      <link>https://ale256.github.io/tags/ct/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/ct/</guid>
+      <guid>https://ale256.github.io/tags/ct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WSI</title>
-      <link>https://ale256.github.io/anjiele/tags/wsi/</link>
+      <link>https://ale256.github.io/tags/wsi/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/wsi/</guid>
+      <guid>https://ale256.github.io/tags/wsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://ale256.github.io/anjiele/tags/deep-learning/</link>
+      <link>https://ale256.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/deep-learning/</guid>
+      <guid>https://ale256.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://ale256.github.io/anjiele/tags/demo/</link>
+      <link>https://ale256.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/demo/</guid>
+      <guid>https://ale256.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human</title>
-      <link>https://ale256.github.io/anjiele/tags/human/</link>
+      <link>https://ale256.github.io/tags/human/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/human/</guid>
+      <guid>https://ale256.github.io/tags/human/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robotics</title>
-      <link>https://ale256.github.io/anjiele/tags/robotics/</link>
+      <link>https://ale256.github.io/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/robotics/</guid>
+      <guid>https://ale256.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academia</title>
-      <link>https://ale256.github.io/anjiele/tags/academia/</link>
+      <link>https://ale256.github.io/tags/academia/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/anjiele/tags/academia/</guid>
+      <guid>https://ale256.github.io/tags/academia/</guid>
       <description></description>
     </item>
     
