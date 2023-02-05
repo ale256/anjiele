@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ale256.github.io/authors/admin/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/authors/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/tags/daily/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/post/getting-started/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/post/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/tags/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/publication_types/8/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ale256.github.io/</loc>
+    <loc>https://ale256.github.io/project/esonic/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/publication/esonic/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/authors/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/authors/baodi-bi/</loc>
@@ -23,13 +38,13 @@
     <loc>https://ale256.github.io/authors/jacques-souquet/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ale256.github.io/project/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ale256.github.io/publication_types/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/publication/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/tags/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/tags/ultrasound/</loc>
@@ -50,8 +65,14 @@
     <loc>https://ale256.github.io/authors/michael-roberts/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ale256.github.io/project/vet-ct/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ale256.github.io/publication/vet-ct/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ale256.github.io/project/wsi/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/publication/wsi/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -68,53 +89,11 @@
     <loc>https://ale256.github.io/authors/zhenghao-li/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ale256.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ale256.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/project/skin-cancer-ai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/post/snail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/tags/academia/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ale256.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ale256.github.io/categories/</loc>
   </url>

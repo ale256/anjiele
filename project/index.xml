@@ -6,36 +6,45 @@
     <description>Recent content in Projects on Anjie Le</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ale256.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://ale256.github.io/project/artificial-intelligence/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Artificial Intelligence Integrated Diagnostic Platform Device in Ultrasound Modality</title>
+      <link>https://ale256.github.io/project/esonic/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/project/artificial-intelligence/</guid>
-      <description></description>
+      <guid>https://ale256.github.io/project/esonic/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Contact me for further information.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://ale256.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>RAPID (Radiology Automated body-Part IDentification)</title>
+      <link>https://ale256.github.io/project/vet-ct/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/project/deep-learning/</guid>
-      <description></description>
+      <guid>https://ale256.github.io/project/vet-ct/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Contact me or &lt;a href=&#34;https://www.linkedin.com/in/jamesbang1233/?originalSubdomain=uk&#34;&gt;James Bang&lt;/a&gt; for codes or further information.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://ale256.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>A new breast cancer diagnosis application based on ResNet50</title>
+      <link>https://ale256.github.io/project/wsi/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/project/external-project/</guid>
-      <description></description>
+      <guid>https://ale256.github.io/project/wsi/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Contact me or &lt;a href=&#34;https://scholar.google.com/citations?user=ecuapkMAAAAJ&amp;amp;hl=zh-CN&#34;&gt;Haobo Yang&lt;/a&gt; for codes or further information.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,24 +59,6 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://ale256.github.io/project/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ale256.github.io/project/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skin Cancer AI</title>
-      <link>https://ale256.github.io/project/skin-cancer-ai/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ale256.github.io/project/skin-cancer-ai/</guid>
-      <description></description>
     </item>
     
   </channel>
