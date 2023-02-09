@@ -6,17 +6,26 @@
     <description>Recent content in Tags on Anjie Le</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ale256.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>daily</title>
-      <link>https://ale256.github.io/tags/daily/</link>
-      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <title>federated learning</title>
+      <link>https://ale256.github.io/tags/federated-learning/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/tags/daily/</guid>
+      <guid>https://ale256.github.io/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://ale256.github.io/tags/mathematics/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ale256.github.io/tags/mathematics/</guid>
       <description></description>
     </item>
     
