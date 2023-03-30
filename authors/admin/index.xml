@@ -13,10 +13,10 @@
     
     <item>
       <title>A script for downloading files from mega.nz</title>
-      <link>https://ale256.github.io/post/jupyter/</link>
+      <link>https://ale256.github.io/post/download-from-mega/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ale256.github.io/post/jupyter/</guid>
+      <guid>https://ale256.github.io/post/download-from-mega/</guid>
       <description>&lt;h2 id=&#34;a-tool-for-sequential-downloads-from-meganz&#34;&gt;A tool for sequential downloads from mega.nz&lt;/h2&gt;
 &lt;p&gt;Make sure you have &lt;a href=&#34;https://github.com/odwyersoftware/mega.py&#34;&gt;&lt;em&gt;mega.py&lt;/em&gt;&lt;/a&gt; installed, or install it with:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $ pip install --user mega.py
@@ -51,7 +51,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; __name__ &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__main__&amp;#34;&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      main()
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now try this:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $ python mega_download.py https://mega.nz/file/kuRhwSBL#lrhW3n0Lq6QjbGFrHIBZahdBZbdeA27Ffr_L6S8eFqo,https://mega.nz/file/VzJDBZ6Y#wi5M2LG27wpIIjOwpXH8geM1dM0JNQbXv_24pw2Y5m4,https://mega.nz/file/VzJDBZ6Y#wi5M2LG27wpIIjOwpXH8geM1dM0JNQbXv_24pw2Y5m4,https://mega.nz/file/tnAwhZCC#_kUBco4uAAvo618_JZLqZtliHjjpSC0ZuxkIeehILdU,https://mega.nz/file/VzJDBZ6Y#wi5M2LG27wpIIjOwpXH8geM1dM0JNQbXv_24pw2Y5m4,https://mega.nz/file/JvYAWKBL#5-QXfzCFp5tb1YJLr7RZlBcnKjQws_g0StD01mdHUXk 
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    $ python mega_download.py https://mega.nz/file/kuRhwSBL#lrhW3n0Lq6QjbGFrHIBZahdBZbdeA27Ffr_L6S8eFqo,https://mega.nz/file/s6QiHb4C#n2-eQ38Bg7Q2Oki6r5S3Iq_sLALlyz8M87YQqTzgdR0,https://mega.nz/file/VzJDBZ6Y#wi5M2LG27wpIIjOwpXH8geM1dM0JNQbXv_24pw2Y5m4,https://mega.nz/file/tnAwhZCC#_kUBco4uAAvo618_JZLqZtliHjjpSC0ZuxkIeehILdU,https://mega.nz/file/c3IUQTIK#JQDJs53l-uZDH6MvTU1YFk6FejjaP0s24vk2pAduEL0,https://mega.nz/file/JvYAWKBL#5-QXfzCFp5tb1YJLr7RZlBcnKjQws_g0StD01mdHUXk
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will download the following datasets to your default output directory and will take forever!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./dg_datasets.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 </description>
