@@ -81,7 +81,7 @@ only holds for $K\leq 3$. Otherwise, LHS $\geq$ RHS rather than $\leq$.&lt;/p&gt
 &lt;ul&gt;
 &lt;li&gt;For $\tau_3$, haven&amp;rsquo;t found a clear reason to support why it is $c-c_i+\nabla f_i(x)$ rather than $c-c_i-\nabla f_i(x)$.
 If this is a typo, then the proof for $\tau_3$ doesn&amp;rsquo;t work.&lt;/li&gt;
-&lt;li&gt;In the line of equation below (25), have an extra $\beta$ in the term $7\beta\eta_l^2\sigma^2$, so that in the final result, the coefficient of $\sigma^2$ is missing by a factor of $63\tilde{\eta}^2$.&lt;/li&gt;
+&lt;li&gt;In the line of equation below (25), there is an extra $\beta$ in the term $7\beta\eta_l^2\sigma^2$, so that in the final result, the coefficient of $\sigma^2$ is missing by a factor of $63\tilde{\eta}^2$.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
